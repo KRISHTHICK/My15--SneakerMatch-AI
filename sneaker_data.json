@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nike Air Max Red",
+    "brand": "Nike",
+    "image": "sneakers/nike_red.png",
+    "colors": ["#c60000", "#ffffff"]
+  },
+  {
+    "name": "Adidas Cloud White",
+    "brand": "Adidas",
+    "image": "sneakers/adidas_white.png",
+    "colors": ["#ffffff", "#dcdcdc"]
+  }
+]
