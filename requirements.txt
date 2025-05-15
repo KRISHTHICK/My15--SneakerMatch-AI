@@ -1,0 +1,8 @@
+streamlit
+Pillow
+scikit-learn
+colorthief
+numpy
+
+# pip install -r requirements.txt
+# streamlit run app.py
